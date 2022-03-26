@@ -1,0 +1,183 @@
+[
+  {
+    "id": "124e13b9",
+    "name": "Nokia",
+    "seller": "Daraz",
+    "price": 42000,
+    "ratings": 4,
+    "img": "./image/20200523_213214.jpg",
+    "shipping": 1
+  },
+  {
+    "id": "124e13d10",
+    "name": "Iphone-13",
+    "seller": "Daraz",
+    "price": 152000,
+    "ratings": 5,
+    "img": "./image/download (1).jpg",
+    "shipping": 2
+  },
+  {
+    "id": "124e13b11",
+    "name": "I-phone-6s",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/download (2).jpg",
+    "shipping": 3
+  },
+  {
+    "id": "124e13b12",
+    "name": "Samsung",
+    "seller": "Daraz",
+    "price": 25000,
+    "ratings": 3,
+    "img": "./image/download (3).jpg",
+    "shipping": 26
+  },
+  {
+    "id": "124e13b13",
+    "name": "Samsung",
+    "seller": "Daraz",
+    "price": 35000,
+    "ratings": 5,
+    "img": "./image/download (4).jpg",
+    "shipping": 4
+  },
+  {
+    "id": "124e13b115",
+    "name": "Samsung galaxy S20",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/download (5).jpg",
+    "shipping": 27
+  },
+  {
+    "id": "124e13b11",
+    "name": "Samsung galaxy",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/download (6).jpg",
+    "shipping": 33
+  },
+  {
+    "id": "124e13b11",
+    "name": "Nokia",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/download (7).jpg",
+    "shipping": 34
+  },
+  {
+    "id": "124e13b11",
+    "name": "Apple Killer",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/download (8).jpg",
+    "shipping": 13
+  },
+  {
+    "id": "124e13b11",
+    "name": "I-phone-13",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/download (9).jpg",
+    "shipping": 23
+  },
+  {
+    "id": "124e13b11",
+    "name": "I-phone-6s",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/download (10).jpg",
+    "shipping": 37
+  },
+  {
+    "id": "124e13b11",
+    "name": "I-phone-6s",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/download (11).jpg",
+    "shipping": 38
+  },
+  {
+    "id": "124e13b11",
+    "name": "I-phone-6s",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/download (12).jpg",
+    "shipping": 39
+  },
+  {
+    "id": "124e13b11",
+    "name": "I-phone-6",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/images (1).jpg",
+    "shipping": 40
+  },
+  {
+    "id": "124e13b11",
+    "name": "I-phone-6s",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/images (2).jpg",
+    "shipping": 333
+  },
+  {
+    "id": "124e13b11",
+    "name": "I-phone-6s",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/images (3).jpg",
+    "shipping": 3312
+  },
+  {
+    "id": "124e13b11",
+    "name": "I-phone-6s",
+    "seller": "Daraz",
+    "price": 15000,
+    "ratings": 4,
+    "img": "./image/images (4).jpg",
+    "shipping": 123
+  },
+  {
+    "id": "124e13b23",
+    "name": "I-phone-8",
+    "seller": "Daraz",
+    "price": 145000,
+    "ratings": 5,
+    "img": "./image/images (5).jpg",
+    "shipping": 233
+  },
+  {
+    "id": "124e13b24",
+    "name": "Samsung",
+    "seller": "Daraz",
+    "price": 35000,
+    "ratings": 4,
+    "img": "./image/images (6).jpg",
+    "shipping": 24
+  },
+  {
+    "id": "124e13b25",
+    "name": "Nokia",
+    "seller": "Daraz",
+    "price": 52000,
+    "ratings": 4,
+    "img": "./image/images (7).jpg",
+    "shipping": 25
+  }
+]
+ 
